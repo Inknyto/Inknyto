@@ -66,7 +66,7 @@ Ethical Hacker · DevOps · IoT Developer
   <img src="https://streak-stats.demolab.com?user=Inknyto&theme=github_dark&hide_border=true&background=00000000" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Inknyto&theme=github_dark&no-frame=true&no-bg=truerow=1&column=6" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Inknyto&theme=github_dark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 <h2 align="center">📡 Ping me</h2>
