@@ -59,14 +59,14 @@ Ethical Hacker · DevOps · IoT Developer
 <h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inknyto&show_icons=true&hide_border=true&bg_color=17120f&title_color=b0895e&text_color=efe6da&icon_color=7fa86a&ring_color=7fa86a" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inknyto&layout=compact&hide_border=true&bg_color=17120f&title_color=b0895e&text_color=efe6da" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Inknyto&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inknyto&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Inknyto&hide_border=true&background=17120f&ring=7fa86a&fire=c96f5e&currStreakNum=7fa86a&currStreakLabel=b0895e&sideNums=efe6da&sideLabels=b0895e&dates=c2b2a0&stroke=3a2d24" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=Inknyto&theme=github_dark&hide_border=true&background=00000000" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Inknyto&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Inknyto&theme=github_dark&no-frame=true&no-bg=truerow=1&column=6" alt="Trophies"/>
 </p>
 
 <h2 align="center">📡 Ping me</h2>
